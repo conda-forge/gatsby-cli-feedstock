@@ -1,4 +1,4 @@
-{% set version = "5.14.0" %}
+{% set version = "5.15.0" %}
 
 package:
   name: gatsby-cli
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/gatsby-cli/-/gatsby-cli-{{ version }}.tgz
-  sha256: 7e2769d985ed6e008fb2c75a57b55c543c44237bc10b289632ddf504d39c35db
+  sha256: c0da7d8dc8c58801afc1e2b762f929114476ef0bafe087e0d785448d55505209
 
 build:
   number: 0
